@@ -22,8 +22,6 @@ The Power BI dashboard includes multiple interactive visuals and KPI cards to pr
 - 📍 **City & Region-wise Analysis**: Performance across locations.
 - 🔍 **Category & Sub-category Sales**: Top-performing items.
 
-![Dashboard Screenshot](./WhatsApp%20Image%202025-04-13%20at%203.15.09%20PM.jpeg)
-
 ---
 
 ## 📝 Business Requirement Summary
@@ -40,8 +38,8 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 ## 📂 Files Included
 
 - `Blinkit_Analysis_Dashboard.pbit` – Power BI dashboard template.
-- `Blinkit_Sales_Analysis_Dashboard.ppt` – Contain the Summary of the dashboard
-- 'BlinkIT Grocery Data.xsls' - Dataset used for visual
+- `Blinkit_Sales_Analysis_Dashboard.ppt` – Contain the Summary of the Dashboard.
+- 'BlinkIT Grocery Data Excel.xlsx' - Dataset used for Power BI Dashboard.
 - `Dashboard_Screenshot.jpeg` – Preview of the final dashboard.
 
 ---
