@@ -37,10 +37,9 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 
 ## 📂 Files Included
 
-- `Blinkit_Analysis_Dashboard.pbit` – Power BI dashboard template.
+- `Blinkit Analysis Dashboard.pbit` – Power BI dashboard template.
 - `Blinkit_Sales_Analysis_Dashboard.ppt` – Contain the Summary of the Dashboard.
 - 'BlinkIT Grocery Data Excel.xlsx' - Dataset used for Power BI Dashboard.
-- `Dashboard_Screenshot.jpeg` – Preview of the final dashboard.
 
 ---
 
