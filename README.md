@@ -1,5 +1,3 @@
-# Task-4-Power-BI-for-data-analysis
-
 # 🛒 Blinkit Sales Dashboard - Power BI Project
 
 This project is a comprehensive Power BI dashboard built to analyze Blinkit's sales performance, customer satisfaction, and inventory distribution. It focuses on identifying key insights and opportunities for business optimization using well-defined KPIs and interactive visualizations.
