@@ -86,5 +86,4 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 
 ---
 
-> Created as part of a Data Analyst Internship Task – Blinkit Case Study  
-> Powered by **Power BI** | Built with 💛 by a passionate data enthusiast
+
